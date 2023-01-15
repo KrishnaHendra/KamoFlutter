@@ -26,7 +26,6 @@ Aplikasi Pembayaran Kantin Digital Moklet
 - Forgot Password
 - Remember Me
 - Dynamic Role
-- Dynamic Function
 
 
 ## Getting Started
