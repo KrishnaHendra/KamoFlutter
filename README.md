@@ -20,8 +20,6 @@ Aplikasi Pembayaran Kantin Digital Moklet
     - Update
     - Delete
 
-## Backup
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
