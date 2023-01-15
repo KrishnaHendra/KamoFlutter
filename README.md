@@ -1,4 +1,4 @@
-# kantin_moklet
+# Kantin Moklet
 
 ```
 Aplikasi Pembayaran Kantin Digital Moklet
