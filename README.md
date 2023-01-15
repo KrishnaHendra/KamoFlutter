@@ -33,8 +33,7 @@ Aplikasi Pembayaran Kantin Digital Moklet
     - Customer
 - Dynamic Function
     - Create
-    - Read
-    - Update
+    - Read=
 
 
 ## Getting Started
