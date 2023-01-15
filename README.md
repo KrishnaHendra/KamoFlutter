@@ -1,6 +1,10 @@
 # kantin_moklet
 
-A new Flutter project.
+```
+Aplikasi Pembayaran Kantin Digital Moklet
+```
+
+
 
 ## Getting Started
 
