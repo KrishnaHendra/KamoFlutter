@@ -29,7 +29,6 @@ Aplikasi Pembayaran Kantin Digital Moklet
     - Adminstrator
     - Accounting
     - Manager
-    - Chef
 - Dynamic Function
 
 ## Getting Started
