@@ -31,7 +31,6 @@ Aplikasi Pembayaran Kantin Digital Moklet
     - Manager
     - Chef
     - Customer
-- Dynamic Function
    
 ## Getting Started
 
