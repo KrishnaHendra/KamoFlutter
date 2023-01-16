@@ -28,7 +28,6 @@ Aplikasi Pembayaran Kantin Digital Moklet
 - Dynamic Role
     - Adminstrator
     - Accounting
-    - Manager
 - Dynamic Function
 
 ## Getting Started
