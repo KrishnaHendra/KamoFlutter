@@ -22,8 +22,7 @@ Aplikasi Pembayaran Kantin Digital Moklet
     
 ## Backup
 - Sign In Page
-- Sign Up Page
-- Forgot Password
+- Sign Up 
 
 ## Getting Started
 
