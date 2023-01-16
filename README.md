@@ -21,7 +21,6 @@ Aplikasi Pembayaran Kantin Digital Moklet
     - Delete
     
 ## Backup
-- Sign In Page
 
 ## Getting Started
 
