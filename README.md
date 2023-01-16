@@ -30,7 +30,6 @@ Aplikasi Pembayaran Kantin Digital Moklet
     - Accounting
     - Manager
     - Chef
-    - Customer
    
 ## Getting Started
 
