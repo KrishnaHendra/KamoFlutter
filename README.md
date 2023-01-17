@@ -35,7 +35,6 @@ Aplikasi Pembayaran Kantin Digital Moklet
     - Create
     - Read
     - Update
-    - Delete
    
 ## Getting Started
 
