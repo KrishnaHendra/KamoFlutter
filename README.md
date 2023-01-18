@@ -19,8 +19,6 @@ Aplikasi Pembayaran Kantin Digital Moklet
     - Read
     - Update
     - Delete
-    
-## Backup
    
 ## Getting Started
 
