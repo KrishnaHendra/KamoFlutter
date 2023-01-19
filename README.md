@@ -4,7 +4,6 @@
 Aplikasi Pembayaran Kantin Digital Moklet
 ```
 ## Page and Features
-ssaaggaaggsssaaffggffss
 - Sign In Page
 - Sign Up Page
 - Forgot Password
