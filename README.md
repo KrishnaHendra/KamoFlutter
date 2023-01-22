@@ -3,7 +3,6 @@
 ```
 Aplikasi Pembayaran Kantin Digital Moklet
 ```
-ssasdasdasdasdadasdaasdadasdsadsasda
 ## Page and Features
 - Sign In Page
 - Sign Up Page
