@@ -5,7 +5,7 @@ if (localPropertiesFile.exists()) {
         localProperties.load(reader)
     }
 }
-ssasphshsnsosjhsjsjs
+ssasphshsnsosjhsjsjsbdbd
 
 def flutterRoot = localProperties.getProperty('flutter.sdk')
 if (flutterRoot == null) {
